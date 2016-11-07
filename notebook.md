@@ -157,3 +157,5 @@ shift+: wq保存退出
 - $watch		
 	+ $scope.$watch('数据模型名的字符串形式',function(变化后的值,变化前的值){}) 
 	+ $scope.$watch里的回调函数会默认执行一次。
+
+###day04
